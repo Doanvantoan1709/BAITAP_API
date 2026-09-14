@@ -5,13 +5,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LearnAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/category")]
     [ApiController]
-    public class categoryController : ControllerBase
+    public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
 
-        public categoryController(ICategoryService categoryService)
+        public CategoriesController(ICategoryService categoryService)
         {
             _categoryService = categoryService;
         }

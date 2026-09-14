@@ -6,13 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LearnAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/product")]
     [ApiController]
-    public class productController : ControllerBase
+    public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;
 
-        public productController(IProductService productService)
+        public ProductsController(IProductService productService)
         {
             _productService = productService;
         }

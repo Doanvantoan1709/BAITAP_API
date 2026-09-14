@@ -8,7 +8,7 @@
     "/api/category/with-products": {
       "get": {
         "tags": [
-          "category"
+          "Categories"
         ],
         "responses": {
           "200": {
@@ -46,7 +46,7 @@
     "/api/category/revenue": {
       "get": {
         "tags": [
-          "category"
+          "Categories"
         ],
         "responses": {
           "200": {
@@ -84,7 +84,7 @@
     "/api/order/total-completed-quantity": {
       "get": {
         "tags": [
-          "order"
+          "Orders"
         ],
         "responses": {
           "200": {
@@ -116,7 +116,7 @@
     "/api/order/details": {
       "get": {
         "tags": [
-          "order"
+          "Orders"
         ],
         "responses": {
           "200": {
@@ -154,7 +154,7 @@
     "/api/order/revenue-by-month": {
       "get": {
         "tags": [
-          "order"
+          "Orders"
         ],
         "responses": {
           "200": {
@@ -192,7 +192,7 @@
     "/api/product/available": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -230,7 +230,7 @@
     "/api/product/sorted": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -268,7 +268,7 @@
     "/api/product/paging": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "parameters": [
           {
@@ -324,7 +324,7 @@
     "/api/product/{id}": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "parameters": [
           {
@@ -364,7 +364,7 @@
     "/api/product/total-inventory-value": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -396,7 +396,7 @@
     "/api/product/most-expensive-available": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -425,7 +425,7 @@
     "/api/product/category-report": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -463,7 +463,7 @@
     "/api/product/stock-status": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -501,7 +501,7 @@
     "/api/product/unsold": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -539,7 +539,7 @@
     "/api/product/top-3-best-sellers": {
       "get": {
         "tags": [
-          "product"
+          "Products"
         ],
         "responses": {
           "200": {
@@ -966,13 +966,13 @@
   },
   "tags": [
     {
-      "name": "category"
+      "name": "Categories"
     },
     {
-      "name": "order"
+      "name": "Orders"
     },
     {
-      "name": "product"
+      "name": "Products"
     },
     {
       "name": "Users"

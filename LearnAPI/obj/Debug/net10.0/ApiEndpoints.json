@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "LearnAPI.Controllers.categoryController",
+    "ContainingType": "LearnAPI.Controllers.CategoriesController",
     "Method": "GetCategoryRevenue",
     "RelativePath": "api/category/revenue",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.categoryController",
+    "ContainingType": "LearnAPI.Controllers.CategoriesController",
     "Method": "GetCategoryStatistic",
     "RelativePath": "api/category/with-products",
     "HttpMethod": "GET",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.orderController",
+    "ContainingType": "LearnAPI.Controllers.OrdersController",
     "Method": "GetOrderDetail",
     "RelativePath": "api/order/details",
     "HttpMethod": "GET",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.orderController",
+    "ContainingType": "LearnAPI.Controllers.OrdersController",
     "Method": "GetMonthlyRevenue",
     "RelativePath": "api/order/revenue-by-month",
     "HttpMethod": "GET",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.orderController",
+    "ContainingType": "LearnAPI.Controllers.OrdersController",
     "Method": "GetTotalProductSold",
     "RelativePath": "api/order/total-completed-quantity",
     "HttpMethod": "GET",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetProductById",
     "RelativePath": "api/product/{id}",
     "HttpMethod": "GET",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetAvailableProducts",
     "RelativePath": "api/product/available",
     "HttpMethod": "GET",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetCategoryReport",
     "RelativePath": "api/product/category-report",
     "HttpMethod": "GET",
@@ -166,7 +166,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetExpensiveProduct",
     "RelativePath": "api/product/most-expensive-available",
     "HttpMethod": "GET",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetPagingProducts",
     "RelativePath": "api/product/paging",
     "HttpMethod": "GET",
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetSortedProducts",
     "RelativePath": "api/product/sorted",
     "HttpMethod": "GET",
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetStockStatus",
     "RelativePath": "api/product/stock-status",
     "HttpMethod": "GET",
@@ -257,7 +257,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetTopProduct",
     "RelativePath": "api/product/top-3-best-sellers",
     "HttpMethod": "GET",
@@ -277,7 +277,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetTotalProductPrice",
     "RelativePath": "api/product/total-inventory-value",
     "HttpMethod": "GET",
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.productController",
+    "ContainingType": "LearnAPI.Controllers.ProductsController",
     "Method": "GetProductUnsold",
     "RelativePath": "api/product/unsold",
     "HttpMethod": "GET",
