@@ -8,11 +8,11 @@ namespace LearnAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductsController : ControllerBase
+    public class productController : ControllerBase
     {
         private readonly IProductService _productService;
 
-        public ProductsController(IProductService productService)
+        public productController(IProductService productService)
         {
             _productService = productService;
         }

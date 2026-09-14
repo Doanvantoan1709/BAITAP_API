@@ -3,72 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Vanto\\source\\repos\\testAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\categoryrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\categoryrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\topproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\topproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\monthlyrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\monthlyrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\stockstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\stockstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\dto\\categoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\dto\\categoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|c:\\users\\vanto\\source\\repos\\testapi\\learnapi\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8DCF0B-1C88-46C9-8710-37F9C8AA8066}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +38,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Controllers\\productController.cs",
+              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\productController.cs*",
+              "RelativeToolTip": "LearnAPI\\Controllers\\productController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:47:40.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Service\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "LearnAPI\\Service\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:29:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "LearnAPI\\Service\\Implementation\\OrderService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:29:04.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Service\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "LearnAPI\\Service\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:17:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Product.cs",
+              "RelativeToolTip": "LearnAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:17:54.521Z"
             },
             {
               "$type": "Document",
@@ -98,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "LearnAPI\\Data\\SeedData.cs",
@@ -106,195 +130,7 @@
               "RelativeToolTip": "LearnAPI\\Data\\SeedData.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwBMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T18:01:50.632Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 171,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryRevenueDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryRevenueDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\CategoryRevenueDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryRevenueDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\CategoryRevenueDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T18:36:03.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MonthlyRevenueDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\MonthlyRevenueDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\MonthlyRevenueDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\MonthlyRevenueDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\MonthlyRevenueDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T10:00:50.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "LearnAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T08:14:20.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryWithProductsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryWithProductsDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\CategoryWithProductsDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryWithProductsDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\CategoryWithProductsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:49:12.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\CategoryService.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Service\\Implementation\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\CategoryService.cs",
-              "RelativeToolTip": "LearnAPI\\Service\\Implementation\\CategoryService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvzkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:48:35.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Service\\Interface\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\ICategoryService.cs",
-              "RelativeToolTip": "LearnAPI\\Service\\Interface\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:48:32.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\OrderDetailDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\OrderDetailDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\OrderDetailDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\OrderDetailDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:27:37.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\UserService.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Service\\Implementation\\UserService.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Implementation\\UserService.cs",
-              "RelativeToolTip": "LearnAPI\\Service\\Implementation\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T07:18:55.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StockStatusDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\StockStatusDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\StockStatusDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\StockStatusDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\StockStatusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T06:43:38.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Service\\Interface\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\IUserService.cs",
-              "RelativeToolTip": "LearnAPI\\Service\\Interface\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:59:23.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryReportDto.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\DTO\\CategoryReportDto.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\DTO\\CategoryReportDto.cs",
-              "RelativeToolTip": "LearnAPI\\DTO\\CategoryReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:41:24.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Model\\Order.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Order.cs",
-              "RelativeToolTip": "LearnAPI\\Model\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:39:05.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Model\\Category.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Model\\Category.cs",
-              "RelativeToolTip": "LearnAPI\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:39:04.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "LearnAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:31:11.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\IOrderService.cs",
-              "RelativeDocumentMoniker": "LearnAPI\\Service\\Interface\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Vanto\\source\\repos\\testAPI\\LearnAPI\\Service\\Interface\\IOrderService.cs",
-              "RelativeToolTip": "LearnAPI\\Service\\Interface\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T05:29:02.998Z"
+              "WhenOpened": "2026-09-12T18:01:50.632Z"
             }
           ]
         }

@@ -35,3 +35,4 @@ C:\Users\Vanto\source\repos\testAPI\LearnAPI\obj\Debug\net10.0\ref\LearnAPI.dll
 C:\Users\Vanto\source\repos\testAPI\LearnAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Vanto\source\repos\testAPI\LearnAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Vanto\source\repos\testAPI\LearnAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vanto\source\repos\testAPI\LearnAPI\obj\Debug\net10.0\LearnAPI.sourcelink.json

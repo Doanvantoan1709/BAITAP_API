@@ -7,11 +7,11 @@ namespace LearnAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoriesController : ControllerBase
+    public class categoryController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
 
-        public CategoriesController(ICategoryService categoryService)
+        public categoryController(ICategoryService categoryService)
         {
             _categoryService = categoryService;
         }

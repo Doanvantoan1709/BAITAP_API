@@ -7,11 +7,11 @@ namespace LearnAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class OrdersController : ControllerBase
+    public class orderController : ControllerBase
     {
         private readonly IOrderService _orderService;
 
-        public OrdersController(IOrderService orderService)
+        public orderController(IOrderService orderService)
         {
             _orderService = orderService;
         }

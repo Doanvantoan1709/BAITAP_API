@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Categories/with-products": {
+    "/api/category/with-products": {
       "get": {
         "tags": [
-          "Categories"
+          "category"
         ],
         "responses": {
           "200": {
@@ -43,10 +43,10 @@
         }
       }
     },
-    "/api/Categories/revenue": {
+    "/api/category/revenue": {
       "get": {
         "tags": [
-          "Categories"
+          "category"
         ],
         "responses": {
           "200": {
@@ -81,10 +81,10 @@
         }
       }
     },
-    "/api/Orders/total-completed-quantity": {
+    "/api/order/total-completed-quantity": {
       "get": {
         "tags": [
-          "Orders"
+          "order"
         ],
         "responses": {
           "200": {
@@ -113,10 +113,10 @@
         }
       }
     },
-    "/api/Orders/details": {
+    "/api/order/details": {
       "get": {
         "tags": [
-          "Orders"
+          "order"
         ],
         "responses": {
           "200": {
@@ -151,10 +151,10 @@
         }
       }
     },
-    "/api/Orders/revenue-by-month": {
+    "/api/order/revenue-by-month": {
       "get": {
         "tags": [
-          "Orders"
+          "order"
         ],
         "responses": {
           "200": {
@@ -189,10 +189,10 @@
         }
       }
     },
-    "/api/Products/available": {
+    "/api/product/available": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -227,10 +227,10 @@
         }
       }
     },
-    "/api/Products/sorted": {
+    "/api/product/sorted": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -265,10 +265,10 @@
         }
       }
     },
-    "/api/Products/paging": {
+    "/api/product/paging": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "parameters": [
           {
@@ -321,10 +321,10 @@
         }
       }
     },
-    "/api/Products/{id}": {
+    "/api/product/{id}": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "parameters": [
           {
@@ -361,10 +361,10 @@
         }
       }
     },
-    "/api/Products/total-inventory-value": {
+    "/api/product/total-inventory-value": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -393,10 +393,10 @@
         }
       }
     },
-    "/api/Products/most-expensive-available": {
+    "/api/product/most-expensive-available": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -422,10 +422,10 @@
         }
       }
     },
-    "/api/Products/category-report": {
+    "/api/product/category-report": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -460,10 +460,10 @@
         }
       }
     },
-    "/api/Products/stock-status": {
+    "/api/product/stock-status": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -498,10 +498,10 @@
         }
       }
     },
-    "/api/Products/unsold": {
+    "/api/product/unsold": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -536,10 +536,10 @@
         }
       }
     },
-    "/api/Products/top-3-best-sellers": {
+    "/api/product/top-3-best-sellers": {
       "get": {
         "tags": [
-          "Products"
+          "product"
         ],
         "responses": {
           "200": {
@@ -966,13 +966,13 @@
   },
   "tags": [
     {
-      "name": "Categories"
+      "name": "category"
     },
     {
-      "name": "Orders"
+      "name": "order"
     },
     {
-      "name": "Products"
+      "name": "product"
     },
     {
       "name": "Users"

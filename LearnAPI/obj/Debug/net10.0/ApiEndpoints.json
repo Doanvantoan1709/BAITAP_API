@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "LearnAPI.Controllers.CategoriesController",
+    "ContainingType": "LearnAPI.Controllers.categoryController",
     "Method": "GetCategoryRevenue",
-    "RelativePath": "api/Categories/revenue",
+    "RelativePath": "api/category/revenue",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.CategoriesController",
+    "ContainingType": "LearnAPI.Controllers.categoryController",
     "Method": "GetCategoryStatistic",
-    "RelativePath": "api/Categories/with-products",
+    "RelativePath": "api/category/with-products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.OrdersController",
+    "ContainingType": "LearnAPI.Controllers.orderController",
     "Method": "GetOrderDetail",
-    "RelativePath": "api/Orders/details",
+    "RelativePath": "api/order/details",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.OrdersController",
+    "ContainingType": "LearnAPI.Controllers.orderController",
     "Method": "GetMonthlyRevenue",
-    "RelativePath": "api/Orders/revenue-by-month",
+    "RelativePath": "api/order/revenue-by-month",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.OrdersController",
+    "ContainingType": "LearnAPI.Controllers.orderController",
     "Method": "GetTotalProductSold",
-    "RelativePath": "api/Orders/total-completed-quantity",
+    "RelativePath": "api/order/total-completed-quantity",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -100,9 +100,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetProductById",
-    "RelativePath": "api/Products/{id}",
+    "RelativePath": "api/product/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -126,9 +126,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetAvailableProducts",
-    "RelativePath": "api/Products/available",
+    "RelativePath": "api/product/available",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -146,9 +146,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetCategoryReport",
-    "RelativePath": "api/Products/category-report",
+    "RelativePath": "api/product/category-report",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -166,9 +166,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetExpensiveProduct",
-    "RelativePath": "api/Products/most-expensive-available",
+    "RelativePath": "api/product/most-expensive-available",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -186,9 +186,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetPagingProducts",
-    "RelativePath": "api/Products/paging",
+    "RelativePath": "api/product/paging",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -217,9 +217,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetSortedProducts",
-    "RelativePath": "api/Products/sorted",
+    "RelativePath": "api/product/sorted",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -237,9 +237,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetStockStatus",
-    "RelativePath": "api/Products/stock-status",
+    "RelativePath": "api/product/stock-status",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -257,9 +257,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetTopProduct",
-    "RelativePath": "api/Products/top-3-best-sellers",
+    "RelativePath": "api/product/top-3-best-sellers",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -277,9 +277,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetTotalProductPrice",
-    "RelativePath": "api/Products/total-inventory-value",
+    "RelativePath": "api/product/total-inventory-value",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -297,9 +297,9 @@
     ]
   },
   {
-    "ContainingType": "LearnAPI.Controllers.ProductsController",
+    "ContainingType": "LearnAPI.Controllers.productController",
     "Method": "GetProductUnsold",
-    "RelativePath": "api/Products/unsold",
+    "RelativePath": "api/product/unsold",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
